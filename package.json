@@ -1,5 +1,7 @@
 {
   "name": "my-app",
+  "homepage": "https://ghalebb.github.io/RoboFriends",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
